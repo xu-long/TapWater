@@ -4,10 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>湖南省自来水公司营销管理信息系统</title> 
+	<script type="text/javascript">
+	location.href = "SY/login.jsp";
+	</script>
 </head>
 <body>
-	<a href="/SY/user/test">点击</a><br>
+	 <a href="/SY/user/test">点击</a><br>
 	<a href="/SY/yk/test2">点击测试YKControllerImpl插入</a><br>
 	<a href="/SY/yk/test3">点击测试YKControllerImpl查询</a>
 </body>

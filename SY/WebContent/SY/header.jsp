@@ -59,7 +59,7 @@
 							<li><a href="./page/rd_enter.html">抄表录入</a></li>	
 							<li><a href="./page/rd_audit.html">抄表审核</a></li>
 							<li><a href="./page/rd_reportReading.html">抄表情况查询</a></li>	
-							<li><a href="./page/rd_reportVolumeReading.html">抄表统计报表</a></li>	
+							<li><a href="./page/rd_reportVolumeReading.jsp">抄表统计报表</a></li>	
 							<li><a href="./page/rd_reportZero.html">零吨位用户查询</a></li>	
 							<li><a href="./page/rd_reportMaxValue.html">最大码值修正记录</a></li>
 							<li><a href="./page/rd_reportCPreAmount.html">底码修正记录</a></li>	
